@@ -1,0 +1,15 @@
+{
+    "python.pythonPath": "python",
+    "python.jediEnabled": true,
+    "html.enable": true,
+    "html.format.enable": true,
+    "html.filetypes":[
+      "html",
+      "handlebars",
+      "django",
+      "htmldjango"
+    ],
+    "emmet.includeLanguages": {
+      "javascript": "html"
+    }
+}
